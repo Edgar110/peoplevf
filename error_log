@@ -1,0 +1,4 @@
+[10-Apr-2018 04:14:27 UTC] PHP Notice:  Undefined index: pass in /home/peoplexr/public_html/funcionalidad/action.php on line 35
+[10-Apr-2018 04:18:34 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/peoplexr/public_html/funcionalidad/X11032018.php on line 4
+[10-Apr-2018 04:21:25 UTC] PHP Notice:  Undefined index: usuario in /home/peoplexr/public_html/funcionalidad/X11032018.php on line 5
+[10-Apr-2018 04:25:20 UTC] PHP Notice:  Undefined index: usuario in /home/peoplexr/public_html/funcionalidad/X0904adminDefPhp.php on line 5
